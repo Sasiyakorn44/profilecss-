@@ -1,0 +1,57 @@
+/*css file => index.html*/
+/* 1 Tag selecter */
+body{
+    background-color:#FEFFE2;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: #F1ECC3;
+}
+h2{
+   text-align: center;
+   font-family: cursive;
+   font-weight: normal;
+}
+h4{
+    text-align: center;
+    font-family: Aclonica ;
+    font-weight: normal;
+}
+table{
+    width: 100%;
+    text-align: center 
+    
+}
+th{
+   width: 33.33%; 
+   vertical-align: top;
+}
+/* 2 กรณีที่แท็กชื่อเดียวกัน เช่น<h> แต่ละตัวที่มีคำสั่งต่างกันจะใช้เป็น => class selecter */
+.P-aboutme{
+    font-weight:normal; 
+    text-align: justify;
+}
+.p-name{
+    font-weight:normal; 
+}
+.p-footer{
+    text-align: center;
+}
+/* 3 id */
+#th-details{
+    text-align: left;
+}
+/*div*/
+.top-container{
+    background-color:#C3BA85;
+}
+.table-menu{
+    background-color: #DAD5AB;
+}
+.table-menu td:hover{
+    background-color:#C3BA85;
+}
+.table-content h2{
+    background-color: #F1ECC3;
+}

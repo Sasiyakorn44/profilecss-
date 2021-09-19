@@ -1,0 +1,30 @@
+/* CSS files --> projects.html */
+body{
+    background-color: #DAD5AB;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #C3BA85;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #F1ECC3;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+p{
+    text-align: center;     
+}
+.p-iframe{
+    text-align: center;
+}
